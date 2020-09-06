@@ -1,12 +1,8 @@
 {
-  "server" : [
-    {
-      "response" : true
-    }
-  ],
-  "restart" : [
-    {
-      "response" : true
-    }
-  ]
+  "server" : {
+    "response" : true
+  },
+  "restart" : {
+    "response" : true
+  }
 }
