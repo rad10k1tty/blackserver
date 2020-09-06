@@ -1,8 +1,8 @@
 {
   "server" : {
-    "response" : true
+    "response" : false
   },
   "restart" : {
-    "response" : false
+    "response" : true
   }
 }
