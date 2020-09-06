@@ -1,0 +1,12 @@
+{
+  "server" : [
+    {
+      "response" : true
+    }
+  ],
+  "restart" : [
+    {
+      "response" : true
+    }
+  ]
+}
